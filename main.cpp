@@ -244,8 +244,7 @@ int main(int argc, char** argv) {
 	cin >> M;
 	a = new CXTree<double>(M,-300,300, 300,-300);
 	gg2();
-	cout << "f";
-	cin>>M;
+
 	//a->print();
 
 
